@@ -1,0 +1,31 @@
+.navbar-brand img{
+    max-width: 50px;
+    height: auto;
+}
+
+.nav-link{
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #000000 !important;
+}
+
+.calltoaction{
+    color: #aa5200 !important;
+}
+
+.calltoaction:hover{
+    color: #36306d !important;
+}
+
+.banner{
+    // background-image: url('img/banner.jpg');
+    // width: 500px;
+    // height: 350px;
+    box-shadow: 5px #ececea inset;
+    // border-radius: 7px;
+}
+
+.textmaincolor{
+    color: #aa5200 !important;
+    font-weight: 700;
+}
